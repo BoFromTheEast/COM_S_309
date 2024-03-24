@@ -5,7 +5,7 @@ A mobile game based on Card game COUP.
 ## Description
 The main objective of this project is to create an interactive COUP card game. The game is built using Java in IntelliJ IDEA, Maven, Android Studio, Gradle, and MySql and tested using Postman.
 
-##How will the app work?
+## How will the app work?
 1. The back end of our project will be implemented with Java and Spring Framework. We will create a class hierarchy for cards, as each card will have its own abilities. We will implement the game logic in a turn-based manner. Here is an example:
     - All users will start with two random cards and two coins.
     - Each round will follow in a clockwise manner, with each turn giving the player an ability to take a coin, use their character abilities, or eliminate a player if they accumulate enough coins.
